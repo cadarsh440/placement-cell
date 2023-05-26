@@ -20,6 +20,3 @@ This is interface for the employees  to fill in the data into the database and t
  ## For LocalSystem :
 for this objective user can download the repository from git and then extract the folder and then type npm start command to run this .
 
-## Take A look :
-This Project is hosted live at [Link](https://cpteamplacementcell.herokuapp.com/)
-Git Hub [Link](https://github.com/developeramit14jan/PlacementCell)
